@@ -2,7 +2,7 @@
 <H3>Register No : 212222230021</H3>
 
 
-<h1 align =center>Exp 2 Implementation of Exact Inference Method of Bayesian Network</h1>
+## Exp 2 Implementation of Exact Inference Method of Bayesian Network
 
 ### Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
